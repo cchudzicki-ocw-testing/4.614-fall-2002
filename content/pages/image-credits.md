@@ -13,7 +13,7 @@ All images used for this course are courtesy of Nasser Rabbat or the [Aga Khan P
 {{< tdopen >}}
 
 
-[![Dome of the Rock.](/courses/architecture/4-614-religious-architecture-and-islamic-cultures-fall-2002/lecture-notes/1005thumbnail.jpg)](http://archnet.org/library/images/one-image.tcl?image_id=28878&collection_id=)
+{{< resource uuid="f2a5723e-f6bc-fa56-8e82-554ca366ab89" href="http://archnet.org/library/images/one-image.tcl?image_id=28878&collection_id=" >}}
 
 Dome of the Rock. (Image courtesy of Sabri Jarrar.)
 
@@ -22,7 +22,7 @@ Dome of the Rock. (Image courtesy of Sabri Jarrar.)
 {{< tdopen >}}
 
 
-[{{< resource "53ec5a34-092e-43c9-2565-c9a75d96b8a5" >}}](http://archnet.org/library/images/one-image.tcl?image_id=17713&collection_id=)
+{{< resource uuid="53ec5a34-092e-43c9-2565-c9a75d96b8a5" href="http://archnet.org/library/images/one-image.tcl?image_id=17713&collection_id=" >}}
 
 Funerary-Religious Complex of Sultan Qaytbay. (Image courtesy of the Fine Arts Library of the Harvard College Library.)
 
@@ -31,7 +31,7 @@ Funerary-Religious Complex of Sultan Qaytbay. (Image courtesy of the Fine Arts L
 {{< tdopen >}}
 
 
-[{{< resource "7a6240f1-f4b4-978a-9ebd-c7897c09ee24" >}}]({{< baseurl >}}/resources/1127thumbnail)
+{{< resource uuid="7a6240f1-f4b4-978a-9ebd-c7897c09ee24" href_uuid="7a6240f1-f4b4-978a-9ebd-c7897c09ee24" >}}
 
 Hudavendigar Complex. (Image courtesy of Yasser Tabbaa.)
 
